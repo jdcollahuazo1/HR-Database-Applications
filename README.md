@@ -14,4 +14,5 @@
   ---
  #### 4.[Modify your query *lab3_2.sql* to add a column that subtracts the old salary from the new salary.
  Label the column *Increase*.Save the contents of the file as *lab3_4.sql*.Run the revised query](https://github.com/jdcollahuazo1/HR-Database-Applications/blob/main/Lab3_4.sql)
-  ![Lab3_4.sql ](https://github.com/jdcollahuazo1/HR-Database-Applications/blob/main/Lab3_4.png)
+ 
+ ![Lab3_4.sql ](https://github.com/jdcollahuazo1/HR-Database-Applications/blob/main/Lab3_4.png)
